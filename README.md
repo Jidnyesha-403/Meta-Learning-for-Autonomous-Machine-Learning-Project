@@ -28,3 +28,12 @@ This project uses AutoKeras for AutoML:
 
 AutoKeras automatically searches for the best model architecture and hyperparameters through max_trials (configurable number of model variations).
 The dataset is split into training and testing sets (80/20 split), and the model is evaluated based on test accuracy.
+
+Results
+After running AutoKeras, the following results were obtained:
+
+Test Accuracy: [Insert the test accuracy here, e.g., 71%]
+Best Model: [Insert details about the best model selected by AutoKeras, if possible (e.g., Random Forest, Neural Network)]
+Model Performance:
+Confusion Matrix: [Optionally include confusion matrix results if calculated]
+Any observed patterns (e.g., overfitting or underfitting, if relevant).
